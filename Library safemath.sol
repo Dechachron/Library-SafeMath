@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: Unlicensed
 pragma solidity 0.6.12;
 
 library SafeMath {
